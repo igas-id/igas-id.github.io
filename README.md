@@ -1,6 +1,61 @@
-# igas-id.github.io
-iGAS Site
+
+# Selamat Datang di iGAS!
 
 
-new test
+[Klik di sini untuk mendaftar](join.md)
 
+
+## Apakah Anda bermimpi untuk:
+- Melanjutkan studi ke program pascasarjana (master berbasis riset atau program PhD gabungan S2+S3)?
+- Masuk ke universitas internasional terbaik dan bergengsi di Amerika Serikat, Eropa, maupun dunia?
+- Mendapatkan beasiswa penuh (biaya kuliah Rp0)?
+- Juga mendapatkan tunjangan bulanan sebagai asisten pengajar atau asisten peneliti?
+- Dan melanjutkan karier di industri maupun akademia di negara tujuan setelah lulus?
+
+## Komunitas kami, iGAS, dapat membantu Anda!
+- iGAS adalah singkatan dari **I**nternational **G**raduate **A**dmission with **S**cholarship.
+- Komunitas kami telah berdiri lebih dari 10 tahun dengan berbagai nama sebelumnya.
+- Kami dulu merupakan komunitas yang "low-key" dan hanya berfokus pada jurusan terkait ilmu komputer.
+- Namun sekarang, saatnya untuk "hit the gas" dan membantu mahasiswa dari berbagai jurusan lainnya.
+
+## Rekam jejak keberhasilan kami:
+- Alumni program kami tersebar di berbagai universitas terbaik di Amerika Serikat dan dunia, termasuk:
+  - Arizona State, Boston U, Carnegie Mellon, Duke, Harvard, John Hopkins, KAUST, KAIST, Notre Dame, Purdue, Rice, Rutgers, Virginia, University of Chicago, University of Florida, Georgia, Illinois Urbana-Champaign, Maryland, Massachusetts Amherst, Minnesota, Virginia, dan Wisconsin-Madison.
+- Tidak hanya diterima di universitas top, alumni kami rata-rata juga menerima sekitar **Rp500 juta beasiswa per tahun** (beasiswa penuh) serta sekitar **Rp40-60 juta gaji bulanan** (sebagai asisten peneliti atau asisten pengajar).
+
+# Pendaftaran
+
+## Tertarik untuk mengenal kami lebih jauh?
+
+- [Silakan klik di sini untuk mendaftar](join.md)
+- Setelah mendaftar, Anda akan mendapatkan akses ke "**iGAS guidebook**" (dalam format google doc) komprehensif sebanyak **60 halaman** yang menjelaskan komunitas kami secara mendetail, sehingga Anda dapat memutuskan apakah ingin bergabung sepenuhnya atau tidak.
+- Anda juga dapat membaca lebih dari **30 halaman testimoni** dari alumni dan mahasiswa yang sedang kami bimbing.
+- Anda akan memiliki kesempatan untuk Zoom bersama kami dan mengajukan pertanyaan lebih lanjut.
+
+## Tapi tunggu ... mohon hanya mendaftar jika Anda bersedia untuk:
+- Berkomitmen selama 1–2 tahun untuk persiapan yang panjang namun solid.
+- Meluangkan minimal 25 jam/minggu secara konsisten untuk mempersiapkan dan mengembangkan diri.
+- Memprioritaskan arahan kami dan mengorbankan kebiasaan lama maupun aktivitas lain yang tidak diperlukan.
+- Memberikan kontribusi kembali kepada komunitas kami di masa depan.
+- (Dan mohon sebelum mendaftar, pastikan kami mencakup jurusan Anda, seperti yang tercantum di bawah ini).
+
+## Bidang dan Jurusan
+- Saat ini komunitas iGAS memiliki mentor untuk bidang-bidang berikut:
+
+### Computing Related
+- Computer Science
+- Computer Engineering
+- Electrical Engineering
+- Information Systems
+- Data Science
+- Telecommunication Engineering
+
+### Bio Related
+- Biophysics
+- Bioengineering
+- Biomolecular Engineering
+- Chemistry
+- Biomedical Sciences
+
+### Lainnya
+- (Tolong cek kembali setiap bulan untuk melihat daftar jurusan yang terbaru)
