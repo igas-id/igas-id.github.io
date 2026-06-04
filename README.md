@@ -19,8 +19,9 @@
 - Namun sekarang, saatnya untuk "hit the gas" dan membantu mahasiswa dari berbagai jurusan lainnya.
 
 ## Rekam jejak keberhasilan kami:
-- Alumni program kami tersebar di berbagai universitas terbaik di Amerika Serikat dan dunia, termasuk:
-  - Arizona State, Boston U, Carnegie Mellon, Duke, Harvard, John Hopkins, KAUST, KAIST, Notre Dame, Purdue, Rice, Rutgers, Virginia, University of Chicago, University of Florida, Georgia, Illinois Urbana-Champaign, Maryland, Massachusetts Amherst, Minnesota, Virginia, dan Wisconsin-Madison.
+- Alumni program kami dan para pembimbing tersebar di berbagai universitas terbaik di Amerika Serikat dan dunia, termasuk:
+  - Arizona State, Boston U, Carnegie Mellon, Duke, Harvard, John Hopkins, KAUST, KAIST, Notre Dame, Princeton, Purdue, Rice, Rutgers, Virginia Tech
+  - University of ... Chicago, Florida, Georgia, Illinois Urbana-Champaign, Maryland, Massachusetts Amherst, Michigan Minnesota, Texas-Austin, Virginia, dan Wisconsin-Madison.
 - Tidak hanya diterima di universitas top, alumni kami rata-rata juga menerima sekitar **Rp500 juta beasiswa per tahun** (beasiswa penuh) serta sekitar **Rp40-60 juta gaji bulanan** (sebagai asisten peneliti atau asisten pengajar).
 
 # Pendaftaran
