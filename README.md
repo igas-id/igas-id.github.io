@@ -27,7 +27,7 @@
 
 ## Tertarik untuk mengenal kami lebih jauh?
 
-- [Silakan klik di sini untuk mendaftar](https://docs.google.com/document/d/e/2PACX-1vR5AHSPGu6nKBc6Cp_S8K6uR3rgOoSsnGim6xnMH_ZSiRRegTUqs89dTPTUR804OnwyI9Hlw6FZnQWM/pub)
+- [**Silakan klik di sini untuk mendaftar**](https://docs.google.com/document/d/e/2PACX-1vR5AHSPGu6nKBc6Cp_S8K6uR3rgOoSsnGim6xnMH_ZSiRRegTUqs89dTPTUR804OnwyI9Hlw6FZnQWM/pub)
 - Setelah mendaftar, Anda akan mendapatkan akses ke "**iGAS guidebook**" (dalam format google doc) komprehensif sebanyak **60 halaman** yang menjelaskan komunitas kami secara mendetail, sehingga Anda dapat memutuskan apakah ingin bergabung sepenuhnya atau tidak.
 - Anda juga dapat membaca lebih dari **30 halaman testimoni** dari alumni dan mahasiswa yang sedang kami bimbing.
 - Anda akan memiliki kesempatan untuk Zoom bersama kami dan mengajukan pertanyaan lebih lanjut.
@@ -41,6 +41,6 @@
 
 ## Bidang dan Jurusan
 - Untuk mengetahui bidang dan jurusan untuk S2/S3 yang dapat kami bimbing mohon melihat halaman ini:
-- [Daftar bidang dan jurusan S2/S3 yang dapat kami bimbing saat ini](https://docs.google.com/document/d/e/2PACX-1vSpXmBKSRtSyhgeFQoJQJW7HsNJVdWzidCX0_HRn84ZCnyVxLl66nYEPOXD0HEW0AsmJIAkuZ09tTMn/pub). 
+- [**Daftar bidang dan jurusan S2/S3 yang dapat kami bimbing saat ini**](https://docs.google.com/document/d/e/2PACX-1vSpXmBKSRtSyhgeFQoJQJW7HsNJVdWzidCX0_HRn84ZCnyVxLl66nYEPOXD0HEW0AsmJIAkuZ09tTMn/pub). 
 - (Tolong cek kembali setiap bulan untuk melihat daftar jurusan yang terbaru)
 
