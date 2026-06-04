@@ -15,8 +15,8 @@
 ## Komunitas kami, iGAS, dapat membantu Anda!
 - iGAS adalah singkatan dari ***I***_nternational_ ***G***_raduate_ ***A***_dmission_ _with_ ***S***_cholarship_.
 - Komunitas kami telah berdiri lebih dari 10 tahun dengan berbagai nama sebelumnya.
-- Kami dulu merupakan komunitas yang "*low-key*" dan hanya berfokus pada satu atau dua jurusan.
-- Namun sekarang, saatnya untuk "*hit the gas*" dan membantu mahasiswa dari berbagai jurusan lainnya.
+- Kami dulu merupakan komunitas yang *"low-key"* dan hanya berfokus pada satu atau dua jurusan.
+- Namun sekarang, saatnya untuk *"hit the gas"* dan membantu mahasiswa dari berbagai jurusan lainnya.
 
 ## Rekam jejak keberhasilan kami:
 - Alumni program kami dan para pembimbing tersebar di berbagai universitas terbaik di Amerika Serikat dan dunia, termasuk:
