@@ -38,7 +38,7 @@
 - Meluangkan minimal 25 jam/minggu secara konsisten untuk mempersiapkan dan mengembangkan diri.
 - Memprioritaskan arahan kami dan mengorbankan kebiasaan lama maupun aktivitas lain yang tidak diperlukan.
 - Memberikan kontribusi kembali kepada komunitas kami di masa depan.
-- (Dan mohon sebelum mendaftar, pastikan kami mencakup jurusan Anda, seperti yang tercantum di bawah ini).
+- *(Dan mohon sebelum mendaftar, pastikan kami mencakup jurusan Anda, seperti yang tercantum di bawah ini).*
 
 ## Bidang dan Jurusan
 - Untuk mengetahui bidang dan jurusan untuk S2/S3 yang dapat kami bimbing mohon melihat halaman ini:
