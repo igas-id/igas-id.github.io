@@ -2,7 +2,7 @@
 # Selamat Datang di iGAS!
 
 
-[Klik di sini untuk mendaftar](https://docs.google.com/document/d/e/2PACX-1vR5AHSPGu6nKBc6Cp_S8K6uR3rgOoSsnGim6xnMH_ZSiRRegTUqs89dTPTUR804OnwyI9Hlw6FZnQWM/pub)
+[Klik di sini untuk mendaftar](https://docs.google.com/document/d/e/2PACX-1vR5AHSPGu6nKBc6Cp_S8K6uR3rgOoSsnGim6xnMH_ZSiRRegTUqs89dTPTUR804OnwyI9Hlw6FZnQWM/pub) (setelah membaca semua isi halaman ini)
 
 
 ## Apakah Anda bermimpi untuk:
