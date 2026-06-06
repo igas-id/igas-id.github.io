@@ -6,7 +6,7 @@
 
 
 ## Apakah Anda bermimpi untuk:
-- Melanjutkan studi ke program pascasarjana (master berbasis riset atau program PhD gabungan S2+S3)?
+- Melanjutkan studi ke program pascasarjana (program PhD gabungan S2+S3, bisa langsung dari S1)?
 - Masuk ke universitas internasional terbaik dan bergengsi di Amerika Serikat, Eropa, maupun dunia?
 - Mendapatkan beasiswa penuh (biaya kuliah Rp0)?
 - Juga mendapatkan tunjangan bulanan sebagai asisten pengajar atau asisten peneliti?
