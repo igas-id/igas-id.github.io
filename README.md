@@ -1,5 +1,5 @@
 
-# Selamat Datang di iGAS Indonesia [@igas.s2.s3][https://www.instagram.com/igas.s2.s3]!
+# Selamat Datang di iGAS Indonesia [@igas.s2.s3](https://www.instagram.com/igas.s2.s3)!
 
 
 [Klik di sini untuk mendaftar](https://docs.google.com/document/d/e/2PACX-1vR5AHSPGu6nKBc6Cp_S8K6uR3rgOoSsnGim6xnMH_ZSiRRegTUqs89dTPTUR804OnwyI9Hlw6FZnQWM/pub) (setelah membaca semua isi halaman ini)
@@ -45,4 +45,4 @@
 - [**Daftar bidang dan jurusan S2/S3 yang dapat kami bimbing saat ini**](https://docs.google.com/document/d/e/2PACX-1vSpXmBKSRtSyhgeFQoJQJW7HsNJVdWzidCX0_HRn84ZCnyVxLl66nYEPOXD0HEW0AsmJIAkuZ09tTMn/pub). 
 - (Tolong cek kembali setiap bulan untuk melihat daftar jurusan yang terbaru)
 
-*Follow* Instagram kami di: [**@igas.s2.s3**][https://www.instagram.com/igas.s2.s3]
+*Follow* Instagram kami di: [**@igas.s2.s3**](https://www.instagram.com/igas.s2.s3)]
