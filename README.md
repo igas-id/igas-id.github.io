@@ -1,4 +1,11 @@
 
+
+---
+title: "iGAS Indonesia -- International Graduate Admission with Scholarship"
+description: "Komunitas Indonesia untuk mencapai 'International Graduate Admission ( S2 / S3 ) with Scholarship' "
+tags: ["igas.id", "igas.s2.s3", "igas indonesia", "igas scholarship"]
+---
+
 # Selamat Datang di iGAS!
 
 
